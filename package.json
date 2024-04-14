@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AviAcharya1/Clock",
   "scripts": {
     "deploy": "gh-pages -d build",
     "dev": "vite",
